@@ -1,0 +1,65 @@
+.flag{
+    display: inline-block;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+}
+.a{
+    background-color: red;
+    height: 100px;
+    width: 300px;
+}
+.b{
+    background-color: white;
+    height: 100px;
+    width: 300px;
+}
+.c{
+    background-color: black;
+    height: 100px;
+    width: 300px;
+}
+.flag1{
+    display: inline-block;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+}
+.d{
+    background-color: lightgreen;
+    height: 300px;
+    width: 100px;
+}
+.e{
+    background-color: white;
+    height: 300px;
+    width: 100px;
+    position: absolute;
+    left: 418px;
+    bottom: 331px;
+    
+}
+.f{
+    background-color: lightgreen;
+    height: 300px;
+    width: 100px;
+    position: absolute;
+    left: 518px;
+    bottom: 331px;
+}
+.flag2{
+    display: inline-block;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    background-color: darkgreen;
+}
+.g{
+    border-radius: 50%;
+    background-color: darkred;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
